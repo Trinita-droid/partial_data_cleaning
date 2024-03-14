@@ -1,2 +1,2 @@
 # partial_data_cleaning
-This repository contains methods for partial data cleaning by importing csv files using common python methods and applying its parameters to obtain a result.
+This repository handles importing file types for partial data cleaning using common python methods and applying its parameters to obtain a result.
